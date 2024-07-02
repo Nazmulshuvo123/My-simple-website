@@ -14,3 +14,31 @@ div{
 p{
     margin-left: 15%;
 }
+
+#h3{
+    background-color: violet;
+    width: fit-content;
+    margin-left: 15%;
+}
+#a{
+    color: rgb(65, 14, 14);
+    background-color: yellow;
+    padding: 10px;
+    margin: 60px;
+    border-radius: 20px;
+}
+
+#h4{
+    background-color: rosybrown;
+    width: fit-content;
+    margin-left: 15%;
+}
+
+#b{
+    color: red;
+    background-color: teal;
+    padding: 10px;
+    margin: 70px;
+    border-radius: 30px;
+
+}
